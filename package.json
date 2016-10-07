@@ -1,0 +1,22 @@
+{
+  "name": "flashcard1-singledeck",
+  "version": "1.0.0",
+  "description": "",
+  "main": "flashcard1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mangkuwi/flashcard1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mangkuwi/flashcard1/issues"
+  },
+  "homepage": "https://github.com/mangkuwi/flashcard1#readme",
+  "dependencies": {
+    "jsonfile": "^2.4.0"
+  }
+}
